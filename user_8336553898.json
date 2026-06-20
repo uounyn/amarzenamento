@@ -1,16 +1,8 @@
 {
   "user_id": 8336553898,
-  "updated_at": "2026-06-19T23:41:27.520631",
+  "updated_at": "2026-06-19T23:42:19.863973",
   "history": {
     "pessoal": [
-      {
-        "role": "user",
-        "content": "Oi"
-      },
-      {
-        "role": "assistant",
-        "content": "Oi novamente! Estou começando a achar que você está apenas querendo dizer olá de novo! Se for isso, olá mais uma vez! Se não, e você estiver com vontade de falar sobre algo, estou aqui para ouvir. Qual é o seu interesse hoje? Quer conversar sobre pessoas, relacionamentos, ou algo mais? Estou aqui para ajudar e conversar!"
-      },
       {
         "role": "user",
         "content": "Como vai?"
@@ -34,6 +26,14 @@
       {
         "role": "assistant",
         "content": "Seu nome é Júnior! Você me disse há pouco. Lembrei disso porque estamos na mesma conversa, mas como eu disse anteriormente, não vou me lembrar disso da próxima vez que conversarmos. Mas por enquanto, estou aqui e sei que você é o Júnior!"
+      },
+      {
+        "role": "user",
+        "content": "Oie"
+      },
+      {
+        "role": "assistant",
+        "content": "Olá novamente, Júnior! Tudo bem? Quer continuar conversando sobre algo em particular ou apenas está passando por aqui? Estou aqui para ouvir e bater um papo!"
       }
     ],
     "geral": [
