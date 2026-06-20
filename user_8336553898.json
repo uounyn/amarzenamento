@@ -1,16 +1,8 @@
 {
   "user_id": 8336553898,
-  "updated_at": "2026-06-19T23:42:19.863973",
+  "updated_at": "2026-06-19T23:42:24.146482",
   "history": {
     "pessoal": [
-      {
-        "role": "user",
-        "content": "Como vai?"
-      },
-      {
-        "role": "assistant",
-        "content": "Estou bem, obrigado por perguntar! Como uma IA, não tenho sentimentos ou emoções como os humanos, mas estou funcionando corretamente e pronto para ajudar e conversar com você. E você, como vai? Tudo bem? Quer conversar sobre algo em particular ou apenas está querendo bater um papo? Estou aqui para ouvir!"
-      },
       {
         "role": "user",
         "content": "Salve isso aí meu nome é Júnior"
@@ -34,6 +26,14 @@
       {
         "role": "assistant",
         "content": "Olá novamente, Júnior! Tudo bem? Quer continuar conversando sobre algo em particular ou apenas está passando por aqui? Estou aqui para ouvir e bater um papo!"
+      },
+      {
+        "role": "user",
+        "content": "Oie"
+      },
+      {
+        "role": "assistant",
+        "content": "Olá de novo, Júnior! Você parece estar um pouco quieto hoje. Tudo bem? Quer falar sobre algo que está acontecendo ou apenas está precisando de alguém para ouvir? Estou aqui para você!"
       }
     ],
     "geral": [
