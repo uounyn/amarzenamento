@@ -1,6 +1,6 @@
 {
   "user_id": 8336553898,
-  "updated_at": "2026-06-20T00:29:10.563160",
+  "updated_at": "2026-06-20T00:30:04.947012",
   "history": {
     "pessoal": [
       {
@@ -172,6 +172,18 @@
         "role": "assistant",
         "content": "Parece que você está fazendo uma referência à nossa conversa atual! É 20/06/2026 e estamos conversando sobre... bem, até agora não temos um tópico específico, mas podemos mudar isso! O que você gostaria de conversar sobre? Comunicação, como mencionamos anteriormente? Ou algo completamente diferente? Estou aqui para ouvir e ajudar!",
         "timestamp": "20/06/2026 00:00"
+      }
+    ],
+    "trabalho": [
+      {
+        "role": "user",
+        "content": "Hoje as 12:30 da madrugada tenho reunião",
+        "timestamp": "20/06/2026 00:30"
+      },
+      {
+        "role": "assistant",
+        "content": "Uma reunião bem tarde da noite! 12:30 da madrugada é um horário um pouco incomum para uma reunião, não é? Você está preparado para essa reunião? É algo relacionado ao trabalho ou a algum projeto pessoal? Está ansioso ou confiante sobre o que será discutido? Quer conversar um pouco sobre isso antes de ir para a reunião?",
+        "timestamp": "20/06/2026 00:30"
       }
     ]
   }
