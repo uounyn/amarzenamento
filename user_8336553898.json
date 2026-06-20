@@ -1,18 +1,8 @@
 {
   "user_id": 8336553898,
-  "updated_at": "2026-06-20T00:38:53.376776",
+  "updated_at": "2026-06-20T00:39:32.108339",
   "history": {
     "pessoal": [
-      {
-        "role": "user",
-        "content": "Chat me lembre meu nome as 12:4 hoje",
-        "timestamp": "20/06/2026 00:04"
-      },
-      {
-        "role": "assistant",
-        "content": "Peço desculpas, mas como eu disse anteriormente, não tenho a capacidade de lembrar ou armazenar informações sobre você, incluindo seu nome. Além disso, não posso enviar mensagens em horários específicos ou realizar ações programadas.\n\nCada vez que você interage comigo, é uma nova conversa e não tenho acesso a informações sobre o nosso histórico de conversas. Se você quiser me dizer seu nome agora, posso usá-lo durante a nossa conversa, mas não posso lembrar dele para o futuro.\n\nSe você tiver alguma outra coisa que queira conversar sobre, estou aqui para ouvir e ajudar! (em 20/06/2026 00:04)",
-        "timestamp": "20/06/2026 00:04"
-      },
       {
         "role": "user",
         "content": "Oi",
@@ -42,6 +32,16 @@
         "role": "assistant",
         "content": "Ahah, parece que você está se divertindo! O \"ksksks\" é um som de alegria e diversão, não é? Estou feliz em ver que você está se sentindo bem! Quer compartilhar o que está te fazendo rir ou sorrir? Estou aqui para ouvir e me juntar à diversão! (em 20/06/2026 00:38)",
         "timestamp": "20/06/2026 00:38"
+      },
+      {
+        "role": "user",
+        "content": "Deixa pra lá",
+        "timestamp": "20/06/2026 00:39"
+      },
+      {
+        "role": "assistant",
+        "content": "Tudo bem! Não vou pressionar. Se você não quiser falar sobre isso, eu respeito sua decisão. Quer mudar de assunto ou simplesmente conversar sobre algo mais leve? Estou aqui para ouvir e ajudar, sem julgamentos. Se precisar de um ouvido amigo, estou à disposição! (em 20/06/2026 00:39)",
+        "timestamp": "20/06/2026 00:39"
       }
     ],
     "geral": [
