@@ -1,16 +1,8 @@
 {
   "user_id": 8336553898,
-  "updated_at": "2026-06-19T23:54:57.481895",
+  "updated_at": "2026-06-19T23:59:39.468581",
   "history": {
     "pessoal": [
-      {
-        "role": "user",
-        "content": "Oi japonês"
-      },
-      {
-        "role": "assistant",
-        "content": "Olá! Não sou japonês, sou um modelo de linguagem treinado por máquina, então não tenho nacionalidade ou identidade cultural. Estou aqui para ajudar e conversar com você em português! Como posso ajudar você hoje? Quer conversar sobre algo em particular ou apenas está passando por aqui?"
-      },
       {
         "role": "user",
         "content": "Oiie chá"
@@ -34,6 +26,16 @@
       {
         "role": "assistant",
         "content": "Tudo bem! Não precisa se preocupar em falar sobre nada se não quiser. Às vezes é bom apenas relaxar e não pensar em nada em particular. Se você mudar de ideia e quiser conversar, estou aqui para ouvir. Senão, posso apenas ficar aqui com você em silêncio virtual, ok?"
+      },
+      {
+        "role": "user",
+        "content": "Me mande mensagem hoje às 11:56 sobre eu",
+        "timestamp": "19/06/2026 23:59"
+      },
+      {
+        "role": "assistant",
+        "content": "Peço desculpas, mas como sou um modelo de linguagem treinado por máquina, não tenho a capacidade de enviar mensagens em horários específicos ou lembrar de eventos futuros. Cada vez que você interage comigo, é uma nova conversa e não tenho acesso a informações sobre o nosso histórico de conversas.\n\nAlém disso, como estamos em 20/06/2026, não posso enviar mensagens no passado (19/06/2026) ou no futuro (11:56 de hoje). Estou aqui para ajudar e conversar com você no momento presente!\n\nSe você quiser conversar sobre algo específico sobre você, estou aqui para ouvir e ajudar no que precisar!",
+        "timestamp": "19/06/2026 23:59"
       }
     ],
     "geral": [
