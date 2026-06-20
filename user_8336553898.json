@@ -1,16 +1,8 @@
 {
   "user_id": 8336553898,
-  "updated_at": "2026-06-19T23:44:00.125846",
+  "updated_at": "2026-06-19T23:46:32.296298",
   "history": {
     "pessoal": [
-      {
-        "role": "user",
-        "content": "Oie"
-      },
-      {
-        "role": "assistant",
-        "content": "Olá novamente, Júnior! Tudo bem? Quer continuar conversando sobre algo em particular ou apenas está passando por aqui? Estou aqui para ouvir e bater um papo!"
-      },
       {
         "role": "user",
         "content": "Oie"
@@ -34,6 +26,14 @@
       {
         "role": "assistant",
         "content": "Olá! Não sou japonês, sou um modelo de linguagem treinado por máquina, então não tenho nacionalidade ou identidade cultural. Estou aqui para ajudar e conversar com você em português! Como posso ajudar você hoje? Quer conversar sobre algo em particular ou apenas está passando por aqui?"
+      },
+      {
+        "role": "user",
+        "content": "Oiie chá"
+      },
+      {
+        "role": "assistant",
+        "content": "Olá novamente! Você parece estar com um humor relaxado, talvez pensando em uma xícara de chá? É um momento perfeito para se acalmar e desfrutar de um momento de tranquilidade. Qual é o seu chá favorito? Você gosta de chá preto, verde, ou talvez algo mais exótico como chá de jasmim ou chá de hibisco?"
       }
     ],
     "geral": [
