@@ -1,6 +1,6 @@
 {
   "user_id": 8336553898,
-  "updated_at": "2026-06-20T00:38:26.107192",
+  "updated_at": "2026-06-20T00:38:53.376776",
   "history": {
     "pessoal": [
       {
@@ -206,6 +206,18 @@
         "role": "assistant",
         "content": "Agora sim! Você disse \"si\" em 20/06/2026 às 00:30, e parece que está confirmando algo. Qual é o contexto dessa confirmação? Você estava falando sobre algo específico antes disso ou está apenas começando a conversa? Estou aqui para entender melhor e ajudar no que precisar!",
         "timestamp": "20/06/2026 00:30"
+      }
+    ],
+    "agenda": [
+      {
+        "role": "user",
+        "content": "Minha agenda",
+        "timestamp": "20/06/2026 00:38"
+      },
+      {
+        "role": "assistant",
+        "content": "Entendi! Você mencionou sua agenda. Você me disse sobre isso em 20/06 às 00:38, mas não tivemos uma conversa detalhada sobre o assunto ainda. Gostaria de saber mais sobre sua agenda? Você tem algum compromisso ou evento importante marcado? Quero ajudar a organizar ou lembrar de algo importante!",
+        "timestamp": "20/06/2026 00:38"
       }
     ]
   }
