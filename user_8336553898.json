@@ -1,6 +1,6 @@
 {
   "user_id": 8336553898,
-  "updated_at": "2026-06-19T23:46:42.230982",
+  "updated_at": "2026-06-19T23:46:46.469069",
   "history": {
     "pessoal": [
       {
@@ -122,6 +122,16 @@
       {
         "role": "assistant",
         "content": "Entendi! Parece que você não está com vontade de conversar sobre nada específico no momento. Tudo bem! Se mudar de ideia ou precisar de algo, estou aqui para ajudar. Caso contrário, podemos apenas passar um tempo juntos em silêncio. Como está seu dia até agora?"
+      }
+    ],
+    "saúde": [
+      {
+        "role": "user",
+        "content": "Oxi"
+      },
+      {
+        "role": "assistant",
+        "content": "Entendi! Parece que você está um pouco indeciso ou não está muito disposto a conversar no momento. Não há problema! Se você mudar de ideia ou precisar de ajuda com algo, estou aqui para você. Se quiser, podemos conversar sobre saúde, que é o tópico que estávamos discutindo anteriormente. Ou podemos mudar de assunto, se preferir! O que você acha?"
       }
     ]
   }
