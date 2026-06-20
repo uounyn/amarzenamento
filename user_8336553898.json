@@ -1,18 +1,8 @@
 {
   "user_id": 8336553898,
-  "updated_at": "2026-06-20T00:32:53.754000",
+  "updated_at": "2026-06-20T00:38:26.107192",
   "history": {
     "pessoal": [
-      {
-        "role": "user",
-        "content": "Ksksks",
-        "timestamp": "20/06/2026 00:03"
-      },
-      {
-        "role": "assistant",
-        "content": "Parece que você está começando o dia de hoje (20/06/2026) com um humor animado! O \"ksksks\" é um som de alegria e diversão, não é? Estou aqui para acompanhar seu humor e ver para onde a conversa vai! O que está te fazendo rir ou sorrir tão cedo?",
-        "timestamp": "20/06/2026 00:03"
-      },
       {
         "role": "user",
         "content": "Chat me lembre meu nome as 12:4 hoje",
@@ -42,6 +32,16 @@
         "role": "assistant",
         "content": "Oi novamente! Parece que você está um pouco quieto hoje. Quer conversar sobre algo em particular ou apenas quer trocar algumas palavras? Estou aqui para ouvir e ajudar no que precisar! Se você precisar de ajuda ou apenas quer bater um papo, estou à disposição! (em 20/06/2026 00:32)",
         "timestamp": "20/06/2026 00:32"
+      },
+      {
+        "role": "user",
+        "content": "Ksksks",
+        "timestamp": "20/06/2026 00:38"
+      },
+      {
+        "role": "assistant",
+        "content": "Ahah, parece que você está se divertindo! O \"ksksks\" é um som de alegria e diversão, não é? Estou feliz em ver que você está se sentindo bem! Quer compartilhar o que está te fazendo rir ou sorrir? Estou aqui para ouvir e me juntar à diversão! (em 20/06/2026 00:38)",
+        "timestamp": "20/06/2026 00:38"
       }
     ],
     "geral": [
