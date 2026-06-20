@@ -1,18 +1,8 @@
 {
   "user_id": 8336553898,
-  "updated_at": "2026-06-20T00:43:56.810216",
+  "updated_at": "2026-06-20T00:46:18.792195",
   "history": {
     "pessoal": [
-      {
-        "role": "user",
-        "content": "Oi",
-        "timestamp": "20/06/2026 00:29"
-      },
-      {
-        "role": "assistant",
-        "content": "Oi! É bom te ver novamente! Como você está agora? Quer conversar sobre algo em particular ou apenas quer bater um papo? Estou aqui para ouvir e ajudar no que precisar! (Lembre-se de que não posso lembrar seu nome, pois você não me disse ainda)",
-        "timestamp": "20/06/2026 00:29"
-      },
       {
         "role": "user",
         "content": "Oi",
@@ -42,6 +32,16 @@
         "role": "assistant",
         "content": "Tudo bem! Não vou pressionar. Se você não quiser falar sobre isso, eu respeito sua decisão. Quer mudar de assunto ou simplesmente conversar sobre algo mais leve? Estou aqui para ouvir e ajudar, sem julgamentos. Se precisar de um ouvido amigo, estou à disposição! (em 20/06/2026 00:39)",
         "timestamp": "20/06/2026 00:39"
+      },
+      {
+        "role": "user",
+        "content": "Oi",
+        "timestamp": "20/06/2026 00:46"
+      },
+      {
+        "role": "assistant",
+        "content": "Oi novamente! Parece que você está um pouco mais tranquilo agora. Quer conversar sobre algo em particular ou apenas quer bater um papo? Estou aqui para ouvir e ajudar no que precisar! Se você precisar de ajuda ou apenas quer trocar algumas palavras, estou à disposição!\n\nE lembre-se, você me disse \"Deixa pra lá\" há alguns minutos, então não vou pressionar sobre nada. Estamos começando de novo, se quiser! (em 20/06/2026 00:46)",
+        "timestamp": "20/06/2026 00:46"
       }
     ],
     "geral": [
