@@ -1,16 +1,8 @@
 {
   "user_id": 8336553898,
-  "updated_at": "2026-06-19T23:39:41.014504",
+  "updated_at": "2026-06-19T23:40:19.532063",
   "history": {
     "pessoal": [
-      {
-        "role": "user",
-        "content": "Oi"
-      },
-      {
-        "role": "assistant",
-        "content": "Oi mais uma vez! Estou começando a achar que você está apenas testando se estou funcionando corretamente. Se for isso, posso dizer que estou tudo bem e pronto para conversar! Se não, e você estiver com vontade de falar sobre algo, estou aqui para ouvir. Qual é o seu interesse? Relacionamentos, amigos, família, ou algo mais?"
-      },
       {
         "role": "user",
         "content": "Estou sim testando vc dkdkdkdkdk"
@@ -34,6 +26,14 @@
       {
         "role": "assistant",
         "content": "Oi novamente! Estou começando a achar que você está apenas querendo dizer olá de novo! Se for isso, olá mais uma vez! Se não, e você estiver com vontade de falar sobre algo, estou aqui para ouvir. Qual é o seu interesse hoje? Quer conversar sobre pessoas, relacionamentos, ou algo mais? Estou aqui para ajudar e conversar!"
+      },
+      {
+        "role": "user",
+        "content": "Como vai?"
+      },
+      {
+        "role": "assistant",
+        "content": "Estou bem, obrigado por perguntar! Como uma IA, não tenho sentimentos ou emoções como os humanos, mas estou funcionando corretamente e pronto para ajudar e conversar com você. E você, como vai? Tudo bem? Quer conversar sobre algo em particular ou apenas está querendo bater um papo? Estou aqui para ouvir!"
       }
     ],
     "geral": [
