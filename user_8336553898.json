@@ -1,16 +1,8 @@
 {
   "user_id": 8336553898,
-  "updated_at": "2026-06-19T23:40:19.532063",
+  "updated_at": "2026-06-19T23:40:42.883148",
   "history": {
     "pessoal": [
-      {
-        "role": "user",
-        "content": "Estou sim testando vc dkdkdkdkdk"
-      },
-      {
-        "role": "assistant",
-        "content": "Ahah, entendi! Bem, parece que passei no teste, então! DKDKDKDKDK de volta para você! Agora que sabemos que estou funcionando corretamente, vamos conversar sobre algo mais sério? Ou você quer continuar brincando um pouco? Estou aqui para entreter e ajudar, então escolha o que você preferir!"
-      },
       {
         "role": "user",
         "content": "Vc é, não lembra?"
@@ -34,6 +26,14 @@
       {
         "role": "assistant",
         "content": "Estou bem, obrigado por perguntar! Como uma IA, não tenho sentimentos ou emoções como os humanos, mas estou funcionando corretamente e pronto para ajudar e conversar com você. E você, como vai? Tudo bem? Quer conversar sobre algo em particular ou apenas está querendo bater um papo? Estou aqui para ouvir!"
+      },
+      {
+        "role": "user",
+        "content": "Salve isso aí meu nome é Júnior"
+      },
+      {
+        "role": "assistant",
+        "content": "Olá Júnior! É um prazer conhecer você! Infelizmente, como uma IA, não tenho a capacidade de \"salvar\" informações de forma permanente, então não vou me lembrar do seu nome da próxima vez que conversarmos. Mas estou aqui agora e pronto para conversar com você! O que você gostaria de falar sobre, Júnior? Sobre si mesmo, sobre pessoas, relacionamentos, ou algo mais? Estou aqui para ouvir!"
       }
     ],
     "geral": [
