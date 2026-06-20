@@ -1,0 +1,12 @@
+{
+  "user_id": 123456,
+  "name": "João Test",
+  "history": {
+    "geral": [
+      {
+        "role": "user",
+        "content": "Oi"
+      }
+    ]
+  }
+}
