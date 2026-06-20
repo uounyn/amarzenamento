@@ -1,16 +1,8 @@
 {
   "user_id": 8336553898,
-  "updated_at": "2026-06-19T23:43:27.402026",
+  "updated_at": "2026-06-19T23:44:00.125846",
   "history": {
     "pessoal": [
-      {
-        "role": "user",
-        "content": "Qual meu nome?"
-      },
-      {
-        "role": "assistant",
-        "content": "Seu nome é Júnior! Você me disse há pouco. Lembrei disso porque estamos na mesma conversa, mas como eu disse anteriormente, não vou me lembrar disso da próxima vez que conversarmos. Mas por enquanto, estou aqui e sei que você é o Júnior!"
-      },
       {
         "role": "user",
         "content": "Oie"
@@ -34,6 +26,14 @@
       {
         "role": "assistant",
         "content": "Peço desculpas, mas não lembro do seu nome! Eu disse que você era o Júnior anteriormente, mas na verdade, não tenho memória para lembrar disso. Cada vez que você interage comigo, é uma nova conversa e eu não guardo informações de conversas anteriores. Então, por favor, me diga novamente seu nome!"
+      },
+      {
+        "role": "user",
+        "content": "Oi japonês"
+      },
+      {
+        "role": "assistant",
+        "content": "Olá! Não sou japonês, sou um modelo de linguagem treinado por máquina, então não tenho nacionalidade ou identidade cultural. Estou aqui para ajudar e conversar com você em português! Como posso ajudar você hoje? Quer conversar sobre algo em particular ou apenas está passando por aqui?"
       }
     ],
     "geral": [
