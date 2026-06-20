@@ -1,16 +1,8 @@
 {
   "user_id": 8336553898,
-  "updated_at": "2026-06-19T23:46:32.296298",
+  "updated_at": "2026-06-19T23:46:42.230982",
   "history": {
     "pessoal": [
-      {
-        "role": "user",
-        "content": "Oie"
-      },
-      {
-        "role": "assistant",
-        "content": "Olá de novo, Júnior! Você parece estar um pouco quieto hoje. Tudo bem? Quer falar sobre algo que está acontecendo ou apenas está precisando de alguém para ouvir? Estou aqui para você!"
-      },
       {
         "role": "user",
         "content": "Meu nome pra ver se vc lembra?"
@@ -34,6 +26,14 @@
       {
         "role": "assistant",
         "content": "Olá novamente! Você parece estar com um humor relaxado, talvez pensando em uma xícara de chá? É um momento perfeito para se acalmar e desfrutar de um momento de tranquilidade. Qual é o seu chá favorito? Você gosta de chá preto, verde, ou talvez algo mais exótico como chá de jasmim ou chá de hibisco?"
+      },
+      {
+        "role": "user",
+        "content": "Oie chat"
+      },
+      {
+        "role": "assistant",
+        "content": "Olá! Parece que você está querendo conversar um pouco mais! Estou aqui para ouvir e responder às suas perguntas ou apenas para bater um papo. O que está acontecendo no seu dia? Quer falar sobre algo em particular ou apenas está procurando por alguém para conversar? Estou aqui para você!"
       }
     ],
     "geral": [
