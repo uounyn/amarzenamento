@@ -1,18 +1,8 @@
 {
   "user_id": 8336553898,
-  "updated_at": "2026-06-20T00:46:18.792195",
+  "updated_at": "2026-06-20T00:51:45.989358",
   "history": {
     "pessoal": [
-      {
-        "role": "user",
-        "content": "Oi",
-        "timestamp": "20/06/2026 00:32"
-      },
-      {
-        "role": "assistant",
-        "content": "Oi novamente! Parece que você está um pouco quieto hoje. Quer conversar sobre algo em particular ou apenas quer trocar algumas palavras? Estou aqui para ouvir e ajudar no que precisar! Se você precisar de ajuda ou apenas quer bater um papo, estou à disposição! (em 20/06/2026 00:32)",
-        "timestamp": "20/06/2026 00:32"
-      },
       {
         "role": "user",
         "content": "Ksksks",
@@ -42,6 +32,16 @@
         "role": "assistant",
         "content": "Oi novamente! Parece que você está um pouco mais tranquilo agora. Quer conversar sobre algo em particular ou apenas quer bater um papo? Estou aqui para ouvir e ajudar no que precisar! Se você precisar de ajuda ou apenas quer trocar algumas palavras, estou à disposição!\n\nE lembre-se, você me disse \"Deixa pra lá\" há alguns minutos, então não vou pressionar sobre nada. Estamos começando de novo, se quiser! (em 20/06/2026 00:46)",
         "timestamp": "20/06/2026 00:46"
+      },
+      {
+        "role": "user",
+        "content": "Ksks",
+        "timestamp": "20/06/2026 00:51"
+      },
+      {
+        "role": "assistant",
+        "content": "Ahah, de novo! O \"ksks\" está de volta! Parece que você está se divertindo novamente! Quer me contar o que está te fazendo rir dessa vez? Ou é um segredo? Estou aqui para ouvir e me juntar à diversão, se quiser compartilhar! (em 20/06/2026 00:51)",
+        "timestamp": "20/06/2026 00:51"
       }
     ],
     "geral": [
