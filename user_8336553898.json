@@ -1,18 +1,8 @@
 {
   "user_id": 8336553898,
-  "updated_at": "2026-06-20T00:30:32.846500",
+  "updated_at": "2026-06-20T00:32:53.754000",
   "history": {
     "pessoal": [
-      {
-        "role": "user",
-        "content": "Me mande mensagem hoje às 11:56 sobre eu",
-        "timestamp": "19/06/2026 23:59"
-      },
-      {
-        "role": "assistant",
-        "content": "Peço desculpas, mas como sou um modelo de linguagem treinado por máquina, não tenho a capacidade de enviar mensagens em horários específicos ou lembrar de eventos futuros. Cada vez que você interage comigo, é uma nova conversa e não tenho acesso a informações sobre o nosso histórico de conversas.\n\nAlém disso, como estamos em 20/06/2026, não posso enviar mensagens no passado (19/06/2026) ou no futuro (11:56 de hoje). Estou aqui para ajudar e conversar com você no momento presente!\n\nSe você quiser conversar sobre algo específico sobre você, estou aqui para ouvir e ajudar no que precisar!",
-        "timestamp": "19/06/2026 23:59"
-      },
       {
         "role": "user",
         "content": "Ksksks",
@@ -42,6 +32,16 @@
         "role": "assistant",
         "content": "Oi! É bom te ver novamente! Como você está agora? Quer conversar sobre algo em particular ou apenas quer bater um papo? Estou aqui para ouvir e ajudar no que precisar! (Lembre-se de que não posso lembrar seu nome, pois você não me disse ainda)",
         "timestamp": "20/06/2026 00:29"
+      },
+      {
+        "role": "user",
+        "content": "Oi",
+        "timestamp": "20/06/2026 00:32"
+      },
+      {
+        "role": "assistant",
+        "content": "Oi novamente! Parece que você está um pouco quieto hoje. Quer conversar sobre algo em particular ou apenas quer trocar algumas palavras? Estou aqui para ouvir e ajudar no que precisar! Se você precisar de ajuda ou apenas quer bater um papo, estou à disposição! (em 20/06/2026 00:32)",
+        "timestamp": "20/06/2026 00:32"
       }
     ],
     "geral": [
