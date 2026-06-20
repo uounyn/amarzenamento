@@ -1,16 +1,8 @@
 {
   "user_id": 8336553898,
-  "updated_at": "2026-06-20T00:06:28.324187",
+  "updated_at": "2026-06-20T00:29:10.563160",
   "history": {
     "pessoal": [
-      {
-        "role": "user",
-        "content": "Deixa pra lá"
-      },
-      {
-        "role": "assistant",
-        "content": "Tudo bem! Não precisa se preocupar em falar sobre nada se não quiser. Às vezes é bom apenas relaxar e não pensar em nada em particular. Se você mudar de ideia e quiser conversar, estou aqui para ouvir. Senão, posso apenas ficar aqui com você em silêncio virtual, ok?"
-      },
       {
         "role": "user",
         "content": "Me mande mensagem hoje às 11:56 sobre eu",
@@ -40,6 +32,16 @@
         "role": "assistant",
         "content": "Peço desculpas, mas como eu disse anteriormente, não tenho a capacidade de lembrar ou armazenar informações sobre você, incluindo seu nome. Além disso, não posso enviar mensagens em horários específicos ou realizar ações programadas.\n\nCada vez que você interage comigo, é uma nova conversa e não tenho acesso a informações sobre o nosso histórico de conversas. Se você quiser me dizer seu nome agora, posso usá-lo durante a nossa conversa, mas não posso lembrar dele para o futuro.\n\nSe você tiver alguma outra coisa que queira conversar sobre, estou aqui para ouvir e ajudar! (em 20/06/2026 00:04)",
         "timestamp": "20/06/2026 00:04"
+      },
+      {
+        "role": "user",
+        "content": "Oi",
+        "timestamp": "20/06/2026 00:29"
+      },
+      {
+        "role": "assistant",
+        "content": "Oi! É bom te ver novamente! Como você está agora? Quer conversar sobre algo em particular ou apenas quer bater um papo? Estou aqui para ouvir e ajudar no que precisar! (Lembre-se de que não posso lembrar seu nome, pois você não me disse ainda)",
+        "timestamp": "20/06/2026 00:29"
       }
     ],
     "geral": [
