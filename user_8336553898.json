@@ -1,16 +1,8 @@
 {
   "user_id": 8336553898,
-  "updated_at": "2026-06-19T23:46:46.469069",
+  "updated_at": "2026-06-19T23:49:33.899158",
   "history": {
     "pessoal": [
-      {
-        "role": "user",
-        "content": "Meu nome pra ver se vc lembra?"
-      },
-      {
-        "role": "assistant",
-        "content": "Peço desculpas, mas não lembro do seu nome! Eu disse que você era o Júnior anteriormente, mas na verdade, não tenho memória para lembrar disso. Cada vez que você interage comigo, é uma nova conversa e eu não guardo informações de conversas anteriores. Então, por favor, me diga novamente seu nome!"
-      },
       {
         "role": "user",
         "content": "Oi japonês"
@@ -34,6 +26,14 @@
       {
         "role": "assistant",
         "content": "Olá! Parece que você está querendo conversar um pouco mais! Estou aqui para ouvir e responder às suas perguntas ou apenas para bater um papo. O que está acontecendo no seu dia? Quer falar sobre algo em particular ou apenas está procurando por alguém para conversar? Estou aqui para você!"
+      },
+      {
+        "role": "user",
+        "content": "Deixa pra lá"
+      },
+      {
+        "role": "assistant",
+        "content": "Tudo bem! Não precisa se preocupar em falar sobre nada se não quiser. Às vezes é bom apenas relaxar e não pensar em nada em particular. Se você mudar de ideia e quiser conversar, estou aqui para ouvir. Senão, posso apenas ficar aqui com você em silêncio virtual, ok?"
       }
     ],
     "geral": [
