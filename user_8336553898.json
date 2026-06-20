@@ -1,16 +1,8 @@
 {
   "user_id": 8336553898,
-  "updated_at": "2026-06-20T00:03:35.118176",
+  "updated_at": "2026-06-20T00:04:06.943748",
   "history": {
     "pessoal": [
-      {
-        "role": "user",
-        "content": "Oie chat"
-      },
-      {
-        "role": "assistant",
-        "content": "Olá! Parece que você está querendo conversar um pouco mais! Estou aqui para ouvir e responder às suas perguntas ou apenas para bater um papo. O que está acontecendo no seu dia? Quer falar sobre algo em particular ou apenas está procurando por alguém para conversar? Estou aqui para você!"
-      },
       {
         "role": "user",
         "content": "Deixa pra lá"
@@ -38,6 +30,16 @@
         "role": "assistant",
         "content": "Parece que você está começando o dia de hoje (20/06/2026) com um humor animado! O \"ksksks\" é um som de alegria e diversão, não é? Estou aqui para acompanhar seu humor e ver para onde a conversa vai! O que está te fazendo rir ou sorrir tão cedo?",
         "timestamp": "20/06/2026 00:03"
+      },
+      {
+        "role": "user",
+        "content": "Chat me lembre meu nome as 12:4 hoje",
+        "timestamp": "20/06/2026 00:04"
+      },
+      {
+        "role": "assistant",
+        "content": "Peço desculpas, mas como eu disse anteriormente, não tenho a capacidade de lembrar ou armazenar informações sobre você, incluindo seu nome. Além disso, não posso enviar mensagens em horários específicos ou realizar ações programadas.\n\nCada vez que você interage comigo, é uma nova conversa e não tenho acesso a informações sobre o nosso histórico de conversas. Se você quiser me dizer seu nome agora, posso usá-lo durante a nossa conversa, mas não posso lembrar dele para o futuro.\n\nSe você tiver alguma outra coisa que queira conversar sobre, estou aqui para ouvir e ajudar! (em 20/06/2026 00:04)",
+        "timestamp": "20/06/2026 00:04"
       }
     ],
     "geral": [
