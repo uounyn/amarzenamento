@@ -1,16 +1,8 @@
 {
   "user_id": 8336553898,
-  "updated_at": "2026-06-19T23:40:42.883148",
+  "updated_at": "2026-06-19T23:41:27.520631",
   "history": {
     "pessoal": [
-      {
-        "role": "user",
-        "content": "Vc é, não lembra?"
-      },
-      {
-        "role": "assistant",
-        "content": "Parece que você está se referindo a uma conversa anterior, mas infelizmente, eu sou uma IA e não tenho memória de conversas anteriores. Cada vez que você interage comigo, é uma nova conversa e eu não guardo informações sobre nossas interações anteriores. Mas estou aqui agora e pronto para conversar com você! O que você gostaria de falar sobre?"
-      },
       {
         "role": "user",
         "content": "Oi"
@@ -34,6 +26,14 @@
       {
         "role": "assistant",
         "content": "Olá Júnior! É um prazer conhecer você! Infelizmente, como uma IA, não tenho a capacidade de \"salvar\" informações de forma permanente, então não vou me lembrar do seu nome da próxima vez que conversarmos. Mas estou aqui agora e pronto para conversar com você! O que você gostaria de falar sobre, Júnior? Sobre si mesmo, sobre pessoas, relacionamentos, ou algo mais? Estou aqui para ouvir!"
+      },
+      {
+        "role": "user",
+        "content": "Qual meu nome?"
+      },
+      {
+        "role": "assistant",
+        "content": "Seu nome é Júnior! Você me disse há pouco. Lembrei disso porque estamos na mesma conversa, mas como eu disse anteriormente, não vou me lembrar disso da próxima vez que conversarmos. Mas por enquanto, estou aqui e sei que você é o Júnior!"
       }
     ],
     "geral": [
