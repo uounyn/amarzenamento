@@ -1,6 +1,6 @@
 {
   "user_id": 8336553898,
-  "updated_at": "2026-06-20T00:30:04.947012",
+  "updated_at": "2026-06-20T00:30:15.816702",
   "history": {
     "pessoal": [
       {
@@ -183,6 +183,18 @@
       {
         "role": "assistant",
         "content": "Uma reunião bem tarde da noite! 12:30 da madrugada é um horário um pouco incomum para uma reunião, não é? Você está preparado para essa reunião? É algo relacionado ao trabalho ou a algum projeto pessoal? Está ansioso ou confiante sobre o que será discutido? Quer conversar um pouco sobre isso antes de ir para a reunião?",
+        "timestamp": "20/06/2026 00:30"
+      }
+    ],
+    "sim": [
+      {
+        "role": "user",
+        "content": "Si",
+        "timestamp": "20/06/2026 00:30"
+      },
+      {
+        "role": "assistant",
+        "content": "Agora sim! Você disse \"si\" em 20/06/2026 às 00:30, e parece que está confirmando algo. Qual é o contexto dessa confirmação? Você estava falando sobre algo específico antes disso ou está apenas começando a conversa? Estou aqui para entender melhor e ajudar no que precisar!",
         "timestamp": "20/06/2026 00:30"
       }
     ]
